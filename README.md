@@ -52,13 +52,6 @@ public class MammalInt implements Animal{
 ### 抽象类与接口的区别
 抽象类跟接口还是挺相似的。以下是[转载自jessenpan的总结](http://www.importnew.com/12399.html)，<br>原文链接： javacodegeeks 翻译： ImportNew.com - jessenpan译文链接： http://www.importnew.com/12399.html<br>
 
-    | 水果        | 价格    |  数量  |
-    | --------   | -----:   | :----: |
-    | 香蕉        | $1      |   5    |
-    | 苹果        | $1      |   6    |
-    | 草莓        | $1      |   7    |
-
-
 | 参数 | 抽象类 | 接口 |
 | - | :-: | :-: |
 | 默认的方法实现 | 它可以有默认的方法实现 | 接口完全是抽象的。它根本不存在方法的实现 |
